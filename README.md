@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Cosmic Trivia](https://img.youtube.com/vi/ouY2ERbatKA/0.jpg)](https://www.youtube.com/watch?v=ouY2ERbatKA)
+[![Cosmic Trivia](https://img.youtube.com/vi/3E6ThhldyPQ/0.jpg)](https://www.youtube.com/watch?v=3E6ThhldyPQ)
+
 
 
 
